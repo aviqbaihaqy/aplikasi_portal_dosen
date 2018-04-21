@@ -1,7 +1,7 @@
-# Aplikasi Keuangan Kampus
+# Aplikasi KRS versi Dosen
 
 # Cara menggunakan git
-1. untuk mengkloning jalankan perintah ``` git clone https://github.com/baihaqyaviq/aplikasi_keuangan_kampus.git```
+1. untuk mengkloning jalankan perintah ``` git clone https://github.com/baihaqyaviq/aplikasi_krs_dosen.git```
 2. ketika ada perubahan file (tambah file, hapus, edit)
 jalankan perintah ``` git add . ``` 
 **catatan:** gunakan tanda "." untuk semua file, atau ```git add nama_file``` untuk satu file.
