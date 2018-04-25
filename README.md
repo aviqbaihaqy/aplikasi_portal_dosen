@@ -1,4 +1,4 @@
-# Aplikasi KRS versi Dosen
+# Aplikasi Portal Dosen
 
 # Cara menggunakan git
 1. untuk mengkloning jalankan perintah ``` git clone https://github.com/baihaqyaviq/aplikasi_portal_dosen.git```
