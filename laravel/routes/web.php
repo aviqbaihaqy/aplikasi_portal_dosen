@@ -17,6 +17,11 @@
  */
 Auth::routes();
 
+/**
+ * KETIKA DIJALANKAN AKAN ERROR KARENA CONTROLLER BELUM DIBUAT, 
+ * OLEH KARENA ITU MATIKAN `//` (JANGAN DIHAPUS) ROUTE YANG TIDAK DIKERJAKAN
+ */
+
 // 1, Apri Zaenal Arifin, 0755201130042,Gambar 4. Tampilan Menu Beranda & Gambar 5. Tampilan Submenu Biodata
 // #tidak membutuhkan route, hanya membuat view yang disesuakn linknya dengan route
 
