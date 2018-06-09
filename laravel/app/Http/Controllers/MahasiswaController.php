@@ -69,7 +69,11 @@ class MahasiswaController extends Controller
         //perintah untuk mengupdate data
     }
 
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> caf65c2d7c6800bc2039944f538046725c485e7b
     /**
      * perintah untuk menghapus data
      *
@@ -80,4 +84,8 @@ class MahasiswaController extends Controller
     {
         //perintah untuk menghapus data
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> caf65c2d7c6800bc2039944f538046725c485e7b
