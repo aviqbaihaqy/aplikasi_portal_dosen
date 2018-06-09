@@ -18,7 +18,7 @@
 Auth::routes();
 
 // 1, Apri Zaenal Arifin, 0755201130042,Gambar 4. Tampilan Menu Beranda & Gambar 5. Tampilan Submenu Biodata
-// #tidak membutuhkan route
+// #tidak membutuhkan route, hanya membuat view yang disesuakn linknya dengan route
 
 // 2, Muhammad Deni Setiawan, 0755201130083,FORM BIODATA
 Route::get('/profile/biodata', 'ProfileController@biodata')->name('biodata');
