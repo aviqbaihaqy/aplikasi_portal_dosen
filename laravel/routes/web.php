@@ -14,3 +14,12 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/mahasiswa', 'MahasiswaController@index')->name('mahasiswa');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
