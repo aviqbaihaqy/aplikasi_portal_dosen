@@ -76,4 +76,9 @@ Route::get('perwalian/tambah_matakuliah', 'PerwalianController@showFormTambahMat
 Route::get('perwalian/konsultasi', 'PerwalianController@showListKonsultasi')->name('list konsultasi');
 
 // 18, Muh Bahrul Ulum, 2017157026,Gambar 22. Tampilan Menu Pencarian Data Mahasiswa & Gambar 23. Contoh Tampilan Pencarian Data Mahasiswa
+<<<<<<< HEAD
 Route::get('perwalian/list_mahasiswa', 'PerwalianController@showListMahasiswa')->name('list.mahasiswa');
+=======
+Route::get('/perwalian/list_mahasiswa', 'PerwalianController@showListMahasiswa')->name('list mahasiswa');
+>>>>>>> caf65c2d7c6800bc2039944f538046725c485e7b
+>>>>>>> 07f6a0e66b7ad6d8a295089f258c9827d2dc3cad
